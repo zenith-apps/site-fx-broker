@@ -1,0 +1,11 @@
+:root {
+  --bg: #f5f7f8;
+  --ink: #121920;
+  --muted: #4d5966;
+  --line: #d5dde3;
+  --accent: #1d4e89;
+  --accent-ink: #f5f9ff;
+  --paper: #ffffff;
+}
+body { background: #f5f7f8; }
+h1 { letter-spacing: -0.02em; }
